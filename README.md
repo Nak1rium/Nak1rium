@@ -27,8 +27,10 @@ ___
 </picture>
 
 Mobile Development:
-
-<a  href="https://www.android.com/" style="text-decoration:none !important">
+<a  href="https://www.android.com/"  style="
+    text-decoration: none;
+    text-underline-offset: inherit;
+  ">
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android" width="28" height="28">
 </a>&nbsp;
 <a  href="https://developer.apple.com/ios/">
