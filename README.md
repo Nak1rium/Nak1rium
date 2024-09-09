@@ -1,4 +1,4 @@
-
+  
 <p align="center">
   <img width="100%" src="https://github.com/agilie/assets/blob/main/images/header.png?raw=true" alt="Agilie header image"/>
 </p>
@@ -28,7 +28,12 @@ ___
 
 Mobile Development:
 
-<a  href="https://www.android.com/">
+
+
+<a  href="https://www.android.com/" style="
+    text-decoration: none;
+    text-underline-offset: inherit;
+  ">
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android" width="28" height="28">
 </a>&nbsp;
 <a  href="https://developer.apple.com/ios/">
