@@ -29,9 +29,7 @@ ___
 
 Mobile Development:
 
-<a  href="https://www.android.com/" class="a">
-<img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android" width="28" height="28">
-</a>&nbsp;
+<a  href="https://www.android.com/" class="a"><img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android" width="28" height="28"></a>&nbsp;
 <a  href="https://developer.apple.com/ios/">
 <picture>
   <img height="28" width="26" alt="Agilie_technology_animation" src="https://github.com/agilie/assets/blob/main/images/apple-dark.png?raw=true">
