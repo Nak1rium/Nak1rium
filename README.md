@@ -20,6 +20,12 @@ At Agilie, our team consists of 60+ experts who are passionate about crafting cu
 
 ### 🛠 &nbsp; Technology Platform we use:</h3>
 ___
+<style>
+.a {
+    text-decoration: none;
+    text-underline-offset: inherit;
+}
+</style>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/agilie/assets/blob/main/images/dark-animation.gif?raw=true">
@@ -28,12 +34,7 @@ ___
 
 Mobile Development:
 
-
-
-<a  href="https://www.android.com/" style="
-    text-decoration: none;
-    text-underline-offset: inherit;
-  ">
+<a  href="https://www.android.com/" class="a">
 <img src="https://raw.githubusercontent.com/agilie/assets/main/images/android-sdk.webp" alt="Android" width="28" height="28">
 </a>&nbsp;
 <a  href="https://developer.apple.com/ios/">
